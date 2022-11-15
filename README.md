@@ -1,2 +1,3 @@
-# spin-polling-app
-A Spin Wasm app for polling for responses
+# Spin Ice Cream Flavor Polling App
+
+Poll to decide whether chocolate or vanilla is the best flavor of all time.
